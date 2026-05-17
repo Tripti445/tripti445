@@ -1,5 +1,1 @@
-### Hi there 👋
-
-## I am Tripti Pant !!!
-
-
+Backend Developer with 3+ years of experience in Java, Spring Boot, Microservices, and Kafka. Passionate about building scalable and reliable backend systems, designing REST APIs, and solving complex engineering problems. Always exploring distributed systems, concurrency, and clean architecture while continuously learning and improving as a developer.
